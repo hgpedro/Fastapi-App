@@ -2,3 +2,4 @@ __pycache__
 venv/
 .env
 API python sections.txt
+docker-compose-dev.yml
